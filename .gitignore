@@ -1,0 +1,15 @@
+# MATLAB / Simulink generated files
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.mdl.r*
+*.slx.r*
+*.mex*
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
