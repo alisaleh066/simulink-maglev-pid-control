@@ -13,3 +13,8 @@ slprj/
 __MACOSX/
 .vscode/
 .idea/
+
+# secrets
+.env
+.env.*
+!.env.example
